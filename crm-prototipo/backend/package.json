@@ -1,0 +1,16 @@
+{
+  "name": "lorgani-flow-backend",
+  "version": "0.1.0",
+  "description": "Backend do L'Organi Flow — Fase A (autenticação, RBAC, CRM)",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js",
+    "seed": "node seed.js"
+  },
+  "dependencies": {
+    "bcryptjs": "^2.4.3",
+    "express": "^4.19.0",
+    "express-session": "^1.18.0",
+    "mysql2": "^3.10.0"
+  }
+}

@@ -1,0 +1,23 @@
+# Segredos
+.env
+.env.*
+!.env.example
+config.bat
+crm-prototipo/backend/config.bat
+
+# Projeto separado (vira repositório próprio)
+plumaflow/
+
+# Mídia pesada — fica só no OneDrive, não no git
+VIDEOS DRONE/
+*.mp4
+*.MP4
+
+# Instaladores/zips soltos que não são parte do site
+pasta claude gut/
+pasta claude gut.zip
+Git-*.exe
+
+# Node
+node_modules/
+.next/

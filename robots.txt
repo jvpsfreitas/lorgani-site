@@ -1,0 +1,5 @@
+User-agent: *
+Allow: /
+Disallow: /_nao-usados/
+
+Sitemap: https://www.lorgani.com.br/sitemap.xml
